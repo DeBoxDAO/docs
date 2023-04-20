@@ -18,4 +18,5 @@ export default defineConfig({
 		}),
 	],
 	site: `https://openapi-docs.deboxdao.xyz`,
+	base: '/openapi-docs'
 });
