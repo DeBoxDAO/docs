@@ -12,7 +12,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-pnpm-lock.yaml
+# pnpm-lock.yaml
 yarn.lock
 package-lock.json
 
