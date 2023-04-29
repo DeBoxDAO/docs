@@ -17,5 +17,5 @@ export default defineConfig({
 			},
 		}),
 	],
-	site: `https://openapi-docs.deboxdao.xyz`
+	site: `https://docs.deboxdao.xyz`
 });

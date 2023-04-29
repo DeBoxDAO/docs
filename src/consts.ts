@@ -40,31 +40,35 @@ export type Sidebar = Record<
 
 export const SIDEBAR: Sidebar = {
 	en: {
-		'Intro': [
+		'Nav': [
 			{ text: 'Introduction', link: 'en/intro/introduction' }
 		],
-		"API Docs": [
-			{ text: 'API One Pager', link: 'en/api/api-one-pager' }
+		"Content EDU": [
+			{ text: 'Getting Started Web3 Tutorial', link: 'en/edu/web3-tutorial' },
+			{ text: 'DeBox Tutorial', link: 'en/edu/debox-tutorial' },
+			{ text: 'Web3 community operation', link: 'en/edu/community-operation' },
+			{ text: 'Governance tools', link: 'en/edu/governance-tools' }
 		],
-		"SDK Docs": [
-			{ text: 'SDK One Pager', link: 'en/sdk/sdk-one-pager' }
-		],
-		"Mini Program": [
-			{ text: 'Mini One Pager', link: 'en/mini/mini-one-pager' }
+		"Open API": [
+			{ text: 'API One Pager', link: 'en/openapi/api-one-pager' },
+			{ text: 'SDK One Pager', link: 'en/openapi/sdk-one-pager' },
+			{ text: 'Mini One Pager', link: 'en/openapi/mini-one-pager' }
 		]
 	},
 	'zh-cn': {
-		'概述': [
-			{ text: '概述', link: 'zh-cn/intro/introduction' },
+		'导航': [
+			{ text: '导航', link: 'zh-cn/intro/introduction' },
 		],
-		"API文档": [
-			{ text: 'API文档', link: 'zh-cn/api/api-one-pager' }
+		"内容学院": [
+			{ text: '小白入门Web3系列教程', link: 'zh-cn/edu/web3-tutorial' },
+			{ text: '新手玩转DeBox教程', link: 'zh-cn/edu/debox-tutorial' },
+			{ text: 'Web3社区运营内容', link: 'zh-cn/edu/community-operation' },
+			{ text: '治理工具', link: 'zh-cn/edu/governance-tools' }
 		],
-		"SDK文档": [
-			{ text: 'SDK文档', link: 'zh-cn/sdk/sdk-one-pager' }
-		],
-		"小程序": [
-			{ text: '小程序接入文档', link: 'zh-cn/mini/mini-one-pager' },
+		"开发API": [
+			{ text: 'API文档', link: 'zh-cn/openapi/api-one-pager' },
+			{ text: 'SDK文档', link: 'zh-cn/openapi/sdk-one-pager' },
+			{ text: '小程序接入文档', link: 'zh-cn/openapi/mini-one-pager' }
 		]
 	}
 };

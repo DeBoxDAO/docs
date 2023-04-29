@@ -1,4 +1,4 @@
-# DeBox Open API Docs
+# DeBoxDAO Docs
 
 ## 🧞 Commands
 
