@@ -21,7 +21,7 @@ I hope to have friends to build an open, friendly and inclusive DAO cultural eco
 
 In the short term, there is no plan or plan to apply for official funding. At present, everything is voluntary and public welfare, so the current project focus will be more inclined to promote ecological prosperity and public welfare. Generate electricity with love, build with heart!
 
-> Project development progress dynamics: https://github.com/DeBoxDAO/projects
+> Project development progress dynamics: https://github.com/orgs/DeBoxDAO/projects
 >
 > Official website: https://deboxdao.xyz
 >
