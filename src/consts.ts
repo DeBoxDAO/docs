@@ -47,13 +47,14 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Getting Started Web3 Tutorial', link: 'en/edu/web3-tutorial' },
 			{ text: 'DeBox Tutorial', link: 'en/edu/debox-tutorial' },
 			{ text: 'Web3 community operation', link: 'en/edu/community-operation' },
-			{ text: 'Governance tools', link: 'en/edu/governance-tools' }
+			{ text: 'Community tools', link: 'en/edu/community-tools' }
 		],
 		"DeBox Open API": [
 			{ text: 'API One Pager', link: 'en/debox-open-api/api-one-pager' },
 			{ text: 'Golang Open SDK', link: 'en/debox-open-api/golang-open-sdk' },
 			{ text: 'Nodejs Open SDK', link: 'en/debox-open-api/nodejs-open-sdk' },
 			{ text: 'Rust Open SDK', link: 'en/debox-open-api/rust-open-sdk' },
+			{ text: 'Python Open SDK', link: 'en/debox-open-api/python-open-sdk' },
 			{ text: 'Mini One Pager', link: 'en/debox-open-api/mini-one-pager' }
 		]
 	},
@@ -65,13 +66,14 @@ export const SIDEBAR: Sidebar = {
 			{ text: '小白入门Web3系列教程', link: 'zh-cn/edu/web3-tutorial' },
 			{ text: '新手玩转DeBox教程', link: 'zh-cn/edu/debox-tutorial' },
 			{ text: 'Web3社区运营内容', link: 'zh-cn/edu/community-operation' },
-			{ text: '治理工具', link: 'zh-cn/edu/governance-tools' }
+			{ text: '社区生态工具', link: 'zh-cn/edu/community-tools' }
 		],
 		"DeBox开放API": [
 			{ text: 'API文档', link: 'zh-cn/debox-open-api/api-one-pager' },
 			{ text: 'Golang开放SDK', link: 'zh-cn/debox-open-api/golang-open-sdk' },
 			{ text: 'Nodejs开放SDK', link: 'zh-cn/debox-open-api/nodejs-open-sdk' },
 			{ text: 'Rust开放SDK', link: 'zh-cn/debox-open-api/rust-open-sdk' },
+			{ text: 'Python开放SDK', link: 'zh-cn/debox-open-api/python-open-sdk' },
 			{ text: '小程序接入文档', link: 'zh-cn/debox-open-api/mini-one-pager' }
 		]
 	}
