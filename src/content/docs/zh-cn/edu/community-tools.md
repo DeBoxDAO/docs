@@ -7,7 +7,7 @@ description: "社区生态工具"
 >
 > 可以点击右侧编辑此文件提交，
 >
-> 也可发邮件至：i@deboxdao.xyz
+> 也可发邮件至：i@debox.love
 >
 
 ## 社区生态工具列表
@@ -36,11 +36,11 @@ description: "社区生态工具"
 - 上线时间: 2023.4.7
 - 维护状态: ✅
 
-### DeBoxDAO Docs
+### DeBoxLove Docs
 
 - 描述: 内容学院/开发SDK文档/DAO内容等
-- 作者: DeBoxDAO开发组织
-- 网址: [https://docs.deboxdao.xyz](https://docs.deboxdao.xyz)
+- 作者: DeBoxLove
+- 网址: [https://docs.debox.love](https://docs.debox.love)
 - 上线时间: 2023.4.20
 - 维护状态: ✅
 
@@ -68,10 +68,10 @@ description: "社区生态工具"
 - 上线时间: 2023.4.30
 - 维护状态: ✅
 
-### @deboxdao/debox-open-sdk
+### debox-open-sdk
 
 - 描述: DeBox Nodejs Open SDK
-- 作者: DeBoxDAO开发组织
-- 网址: [Github](https://github.com/DeBoxDAO/debox-open-sdk/tree/main/packages/node) [NPM](https://www.npmjs.com/package/@deboxdao/debox-open-sdk)
+- 作者: DeBoxLove
+- 网址: [Github](https://github.com/DeBoxLove/debox-open-sdk/tree/main/packages/node) [NPM](https://www.npmjs.com/package/debox-open-sdk)
 - 上线时间: 2023.5.4
 - 维护状态: ✅

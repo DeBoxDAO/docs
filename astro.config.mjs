@@ -17,5 +17,5 @@ export default defineConfig({
 			},
 		}),
 	],
-	site: `https://docs.deboxdao.xyz`
+	site: `https://docs.debox.love`
 });

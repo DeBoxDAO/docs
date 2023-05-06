@@ -7,7 +7,7 @@ description: "Governance Tools"
 >
 > You can click on the right to edit this file submission,
 >
-> You can also send an email to: i@deboxdao.xyz
+> You can also send an email to: i@debox.love
 >
 
 ## List of community ecological tools
@@ -36,11 +36,11 @@ description: "Governance Tools"
 - Launch time: 2023.4.7
 - Maintenance Status: ✅
 
-### DeBoxDAO Docs
+### DeBoxLove Docs
 
 - Description: Content Academy/Development SDK Documentation/DAO Content, etc.
-- Author: DeBoxDAO Development Organization
-- Website: [https://docs.deboxdao.xyz](https://docs.deboxdao.xyz)
+- Author: DeBoxLove
+- Website: [https://docs.debox.love](https://docs.debox.love)
 - Launch time: 2023.4.20
 - Maintenance Status: ✅
 
@@ -68,10 +68,10 @@ description: "Governance Tools"
 - Launch time: 2023.4.30
 - Maintenance status: ✅
 
-### @deboxdao/debox-open-sdk
+### debox-open-sdk
 
 - Description: DeBox Nodejs Open SDK
-- Author: DeBoxDAO Development Organization
-- URL: [Github](https://github.com/DeBoxDAO/debox-open-sdk/tree/main/packages/node) [NPM](https://www.npmjs.com/package/@deboxdao/debox-open-sdk)
+- Author: DeBoxLove
+- URL: [Github](https://github.com/DeBoxLove/debox-open-sdk/tree/main/packages/node) [NPM](https://www.npmjs.com/package/debox-open-sdk)
 - Launch time: 2023.5.4
 - Maintenance Status: ✅

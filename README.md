@@ -1,4 +1,4 @@
-# DeBoxDAO Docs
+# DeBoxLove Docs
 
 ## 🧞 Commands
 

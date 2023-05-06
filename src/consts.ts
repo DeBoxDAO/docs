@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'DeBoxDAO Docs',
-	description: 'DeBoxDAO docs.',
+	title: 'DeBox Love Docs',
+	description: 'DeBox Love docs.',
 	defaultLanguage: 'en-us',
 } as const;
 
@@ -8,10 +8,10 @@ export const OPEN_GRAPH = {
 	image: {
 		src: 'https://avatars.githubusercontent.com/u/126640407?s=200&v=4',
 		alt:
-			'DeBoxDAO logo,' +
+			'DeBoxLove logo,' +
 			' with a purple saturn-like planet floating in the right foreground',
 	},
-	twitter: 'DeBoxDAO',
+	twitter: 'DeBoxLove',
 };
 
 export const KNOWN_LANGUAGES = {
@@ -20,11 +20,11 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-export const GITHUB_EDIT_URL = `https://github.com/DeBoxDAO/docs/tree/main`;
+export const GITHUB_EDIT_URL = `https://github.com/DeBoxLove/docs/tree/main`;
 
 export const COMMUNITY_INVITE_URL = `https://debox.space/dao/XxARAjJH`;
 
-export const OFFICIAL_WEBSITE_URL = `https://deboxdao.xyz`
+export const OFFICIAL_WEBSITE_URL = `https://debox.love`
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
