@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/npm/dt/debox-open-sdk.svg" alt="Total Downloads">
   </a>
   <a href="https://github.com/deboxlove/debox-open-sdk/releases">
-    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version" />
+    <img src="https://img.shields.io/badge/version-1.0.1-blue.svg" alt="Version" />
   </a>
 </p>
 
@@ -85,5 +85,13 @@ const res = await data.sendChatMsg({
 	toUserId: '',
 	groupId: 'groupId',
 	message: 'Hello World',
+})
+```
+
+- get GroupId
+
+```js
+const res = await data.getGroupId({
+	inviteUrl: 'https://debox.site/group/00021pru' // group invite url
 })
 ```
